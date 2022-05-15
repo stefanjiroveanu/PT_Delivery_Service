@@ -1,0 +1,8 @@
+Order: 5
+Placed on the date of: 2022-05-10T10:48:51.641699400
+Contains the products: 
+menu0.6299961654994239
+Ham and Swiss Puff-Pastry Quiche 
+Garlic Soup 
+Bittersweet Chocolate Frosting 
+For the total price of: 25.0

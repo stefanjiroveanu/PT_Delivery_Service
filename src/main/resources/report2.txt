@@ -1,0 +1,9 @@
+The products are: MenuItem{name='Ham and Swiss Puff-Pastry Quiche ', price=4.375, rating=516, numberOfCalories=14, proteins=38}
+MenuItem{name='Garlic Soup ', price=1.25, rating=91, numberOfCalories=3, proteins=0}
+MenuItem{name='Bittersweet Chocolate Frosting ', price=4.375, rating=314, numberOfCalories=3, proteins=26}
+MenuItem{name='Pear Charlottes with Chamomile Crème Anglaise ', price=4.375, rating=636, numberOfCalories=21, proteins=58}
+MenuItem{name='Stuffed Baked Potatoes with Horseradish Cream ', price=3.75, rating=342, numberOfCalories=6, proteins=18}
+MenuItem{name='Pear Charlottes with Chamomile Crème Anglaise ', price=3.75, rating=637, numberOfCalories=60, proteins=27}
+MenuItem{name='Stuffed Baked Potatoes with Horseradish Cream ', price=3.75, rating=342, numberOfCalories=6, proteins=18}
+MenuItem{name='menu0.8561153397523362', price=23.0, rating=451, numberOfCalories=112, proteins=207}
+

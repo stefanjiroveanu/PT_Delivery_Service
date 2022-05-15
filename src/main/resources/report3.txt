@@ -1,0 +1,2 @@
+The clients who ordered more than 1 and the price of their order is greater than 1.0 are : 2
+
